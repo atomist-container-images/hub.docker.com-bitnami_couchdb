@@ -1,12 +1,15 @@
-# Tags: latest, 3.2.1-debian-10-r165, 3.2.1, 3-debian-10, 3
+# Tags: latest, 3.2.1-debian-10-r166, 3.2.1, 3-debian-10, 3
 FROM bitnami/couchdb:latest
-FROM bitnami/couchdb:3.2.1-debian-10-r165
+FROM bitnami/couchdb:3.2.1-debian-10-r166
 FROM bitnami/couchdb:3.2.1
 FROM bitnami/couchdb:3-debian-10
 FROM bitnami/couchdb:3
 
 # Tags: _
 FROM bitnami/couchdb:_
+
+# Tags: 3.2.1-debian-10-r165
+FROM bitnami/couchdb:3.2.1-debian-10-r165
 
 # Tags: 3.2.1-debian-10-r164
 FROM bitnami/couchdb:3.2.1-debian-10-r164
@@ -79,6 +82,3 @@ FROM bitnami/couchdb:3.2.1-debian-10-r142
 
 # Tags: 3.2.1-debian-10-r141
 FROM bitnami/couchdb:3.2.1-debian-10-r141
-
-# Tags: 3.2.1-debian-10-r140
-FROM bitnami/couchdb:3.2.1-debian-10-r140
