@@ -1,12 +1,39 @@
-# Tags: latest, 3.2.1-debian-10-r166, 3.2.1, 3-debian-10, 3
+# Tags: latest, 3.2.1-debian-10-r175, 3.2.1, 3-debian-10, 3
 FROM bitnami/couchdb:latest
-FROM bitnami/couchdb:3.2.1-debian-10-r166
+FROM bitnami/couchdb:3.2.1-debian-10-r175
 FROM bitnami/couchdb:3.2.1
 FROM bitnami/couchdb:3-debian-10
 FROM bitnami/couchdb:3
 
 # Tags: _
 FROM bitnami/couchdb:_
+
+# Tags: 3.2.1-debian-10-r174
+FROM bitnami/couchdb:3.2.1-debian-10-r174
+
+# Tags: 3.2.1-debian-10-r173
+FROM bitnami/couchdb:3.2.1-debian-10-r173
+
+# Tags: 3.2.1-debian-10-r172
+FROM bitnami/couchdb:3.2.1-debian-10-r172
+
+# Tags: 3.2.1-debian-10-r171
+FROM bitnami/couchdb:3.2.1-debian-10-r171
+
+# Tags: 3.2.1-debian-10-r170
+FROM bitnami/couchdb:3.2.1-debian-10-r170
+
+# Tags: 3.2.1-debian-10-r169
+FROM bitnami/couchdb:3.2.1-debian-10-r169
+
+# Tags: 3.2.1-debian-10-r168
+FROM bitnami/couchdb:3.2.1-debian-10-r168
+
+# Tags: 3.2.1-debian-10-r167
+FROM bitnami/couchdb:3.2.1-debian-10-r167
+
+# Tags: 3.2.1-debian-10-r166
+FROM bitnami/couchdb:3.2.1-debian-10-r166
 
 # Tags: 3.2.1-debian-10-r165
 FROM bitnami/couchdb:3.2.1-debian-10-r165
@@ -55,30 +82,3 @@ FROM bitnami/couchdb:3.2.1-debian-10-r151
 
 # Tags: 3.2.1-debian-10-r150
 FROM bitnami/couchdb:3.2.1-debian-10-r150
-
-# Tags: 3.2.1-debian-10-r149
-FROM bitnami/couchdb:3.2.1-debian-10-r149
-
-# Tags: 3.2.1-debian-10-r148
-FROM bitnami/couchdb:3.2.1-debian-10-r148
-
-# Tags: 3.2.1-debian-10-r147
-FROM bitnami/couchdb:3.2.1-debian-10-r147
-
-# Tags: 3.2.1-debian-10-r146
-FROM bitnami/couchdb:3.2.1-debian-10-r146
-
-# Tags: 3.2.1-debian-10-r145
-FROM bitnami/couchdb:3.2.1-debian-10-r145
-
-# Tags: 3.2.1-debian-10-r144
-FROM bitnami/couchdb:3.2.1-debian-10-r144
-
-# Tags: 3.2.1-debian-10-r143
-FROM bitnami/couchdb:3.2.1-debian-10-r143
-
-# Tags: 3.2.1-debian-10-r142
-FROM bitnami/couchdb:3.2.1-debian-10-r142
-
-# Tags: 3.2.1-debian-10-r141
-FROM bitnami/couchdb:3.2.1-debian-10-r141
